@@ -1,0 +1,8 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "conversion",
+ "input": "buffer",
+ "output": "base32",
+ "id": "buffer-to-base32",
+ "description": "buffer to base32"
+}
